@@ -43,15 +43,6 @@ By enabling EVs to charge using wind power, this technology promotes greater **a
 - **AI Integration**: Optimizing wind energy capture through AI-driven battery management systems.
 - **Scalability**: Expanding the concept to other vehicle types and exploring further renewable energy integrations.
 
-## How to Use This Repository
-
-1. Clone this repository:
-    ```bash
-    git clone https://github.com/your-username/ev-wind-turbine-integration.git
-    ```
-2. Explore the provided CAD model and simulation files.
-3. Review the design documents and project reports for more details on the concept and implementation.
-
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
@@ -59,4 +50,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## Contact
 
 For any queries, feel free to reach out to:
-- **Ariharasudhan A** - [Email](mailto:example@example.com)
+- **Ariharasudhan A** - [Email](ariadaikalam1234@gmail.com)
+- **Asvikaa K M R** - [Email](asvikaakmr1@gmail.com)
