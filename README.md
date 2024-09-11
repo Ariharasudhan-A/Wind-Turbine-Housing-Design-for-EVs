@@ -2,46 +2,38 @@
 
 ## Project Overview
 
-This project explores an innovative solution to enhance the **range and efficiency of Electric Vehicles (EVs)** by integrating a **wind turbine** within the bonnet of the vehicle. The turbine harnesses wind energy generated during vehicle motion, converting it into electrical power to **charge the EV’s battery on-the-go**, thus reducing reliance on stationary charging infrastructure.
+This project focuses on designing a model to integrate a **wind turbine** within the bonnet of an Electric Vehicle (EV). Our current work involves creating a model to **securely and aerodynamically house the turbine** within the EV’s bonnet.
 
 ### Key Features:
-- **Continuous Energy Generation**: Unlike regenerative braking, which captures energy only during specific actions (i.e., braking), our system continuously harnesses wind energy while driving.
-- **Aerodynamic Design**: The wind turbine is seamlessly integrated within the EV’s bonnet, preserving the vehicle’s aesthetics and aerodynamics.
-- **Increased Range**: Extends the driving range of EVs, reducing the frequency of charging stops and addressing "range anxiety."
-- **Environmental Impact**: Promotes sustainable development by reducing greenhouse gas emissions and reliance on non-renewable energy sources.
+- **Design Integration**: A detailed model showing how the wind turbine can be accommodated within the EV’s bonnet.
+- **Aerodynamic Considerations**: Ensuring that the integration does not negatively impact the vehicle's aerodynamics or aesthetics.
+- **Future Potential**: Laying the groundwork for future work on harnessing wind energy for on-the-go charging.
 
 ## Problem Statement
 
-A significant barrier to widespread EV adoption is "range anxiety," where drivers fear running out of battery power before reaching a charging station. Current EVs are also dependent on electricity generated from non-renewable sources. This project proposes a **renewable and sustainable method** for extending EV range by integrating wind turbines for **on-the-go charging**.
+As Electric Vehicles (EVs) face challenges related to range anxiety and dependency on stationary charging infrastructure, there is a need for innovative solutions to extend driving range and reduce reliance on non-renewable energy sources. This project aims to address these challenges by designing a model that will enable the integration of a wind turbine within the bonnet of an Electric Vehicle (EV) for energy generation.
 
 ## Proposed Solution
 
-The concept is to install a **wind turbine inside the bonnet** of the EV. This turbine captures wind energy as the vehicle moves, converting it into electrical energy that can charge the battery in real-time. This approach allows for **energy recovery without compromising the vehicle’s aesthetics or performance**.
-
-### Advantages of the Solution:
-- **Continuous Power Generation**: Generates power throughout the vehicle’s movement.
-- **Enhanced Driving Range**: Reduces dependency on charging stations and extends the vehicle's range.
-- **Sustainable**: Lowers the carbon footprint by reducing reliance on fossil fuels and non-renewable energy sources.
+The project involves designing a model to **accommodate a wind turbine within the bonnet** of the EV. This design will serve as a foundation for further development of systems that capture wind energy and convert it into electrical power.
 
 ## CAD Model and Simulation
 
-The project includes a CAD model demonstrating the integration of the wind turbine within the EV’s bonnet. A simulation is also provided to showcase the energy capture potential and its impact on driving range.
+The project includes a CAD model demonstrating how the wind turbine can be integrated into the EV’s bonnet. This model provides a visual representation of the design and helps in understanding the spatial and aerodynamic considerations.
+
+![Model](https://github.com/user-attachments/assets/529b5dbf-035b-4da5-b1bc-727fa20640e0)
+![Simulation](https://github.com/user-attachments/assets/424d3bbf-dfcd-44bf-8078-a6ad3dee7556)
 
 ## Target Audience
 
 - **EV Manufacturers**
-- **EV Owners and Potential Buyers**
-- **Urban Planners & Smart City Developers**
-- **Environmental Organizations**
+- **Automotive Engineers**
+- **Industrial Designers**
+- **Research and Development Teams**
 
 ## Impact and Benefits
 
-By enabling EVs to charge using wind power, this technology promotes greater **adoption of clean energy vehicles**, reduces reliance on fossil fuels, and contributes to **combating climate change**. Societally, this innovation enhances mobility while reducing environmental harm, contributing to the **health and well-being of communities**.
-
-## Future Scope
-
-- **AI Integration**: Optimizing wind energy capture through AI-driven battery management systems.
-- **Scalability**: Expanding the concept to other vehicle types and exploring further renewable energy integrations.
+While the current focus is on the design model, the long-term goal of this project is to enable **sustainable energy solutions** for EVs, potentially reducing range anxiety and promoting the use of renewable energy. The design work lays the groundwork for future innovations in energy integration and vehicle design.
 
 ## License
 
