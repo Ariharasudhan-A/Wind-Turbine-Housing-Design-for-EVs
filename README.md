@@ -1,4 +1,4 @@
-# Electric Vehicle Wind Turbine Integration
+# Wind Turbine Housing Design for EVs
 
 ## Project Overview
 
