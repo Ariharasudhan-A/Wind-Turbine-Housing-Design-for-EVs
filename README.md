@@ -42,6 +42,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## Contact
 
 For any queries, feel free to reach out to:
-- **Ariharasudhan A** - [Email](ariadaikalam1234@gmail.com)
-- **Asvikaa K M R** - [Email](asvikaakmr1@gmail.com)
-- **Blesslin Thanusha N G** - [Email](blesslinthanushang@gmail.com)
+- **Ariharasudhan A** - [Email](mailto:ariadaikalam1234@gmail.com)
+- **Asvikaa K M R** - [Email](mailto:asvikaakmr1@gmail.com)
+- **Blesslin Thanusha N G** - [Email](mailto:blesslinthanushang@gmail.com)
